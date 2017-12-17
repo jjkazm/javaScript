@@ -12,4 +12,4 @@ function policzSume(iloscOsoby1, iloscOsoby2, iloscOsoby3, iloscOsoby4){
     sumaKasy = iloscOsoby1 +iloscOsoby2+iloscOsoby3+iloscOsoby4;
 }
 
-console.log()
+console.log(ys)
